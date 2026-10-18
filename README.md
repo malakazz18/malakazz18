@@ -1,6 +1,6 @@
 # Hi, I'm Malak 👋
 
-<img width="800" height="600" alt="Demo" src="https://github.com/user-attachments/assets/8b034590-6bb1-4bfc-910c-c0eceeb494ba" />
+<img width="200" height="200" alt="Demo" src="https://github.com/user-attachments/assets/8b034590-6bb1-4bfc-910c-c0eceeb494ba" />
 
 Final-year Business Computing student (Business Intelligence track) at ISG Bizerte, Tunisia.
 I'm building toward AI engineering for **renewable energy, climate tech and medical AI**,
